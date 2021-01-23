@@ -1,0 +1,19 @@
+{
+  "name": "practice",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kotaro-lab457/Node_practice.git"
+  },
+  "author": "Myserver",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kotaro-lab457/Node_practice/issues"
+  },
+  "homepage": "https://github.com/kotaro-lab457/Node_practice#readme"
+}
